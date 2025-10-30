@@ -58,5 +58,20 @@ ISEMPTY
 */
 
 
+//ENQUEUE : Adding a Node at the end
 
+void enqueue(){
 
+}
+// DEQUEUE : Removing node from the front of Array
+void dequeue(){
+
+}
+
+int showfront(){
+
+}
+
+bool isEmpty(){
+
+}
